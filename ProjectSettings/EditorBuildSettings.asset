@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Totoduel/Scenes/Start.unity
+    guid: 7babf34ef6eaa42ad9ac8b6b88a88c08
+  - enabled: 1
+    path: Assets/Totoduel/Scenes/Blank.unity
+    guid: a455ec4bb6c714deca8b4b4e2a2f86c7
+  m_configObjects: {}
